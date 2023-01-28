@@ -1,0 +1,4 @@
+git init
+git add .
+git commit -m "Who is this person" 
+git push https://github.com/LucasWonJoonJung/Proof.git
